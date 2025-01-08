@@ -93,5 +93,5 @@ Contiene:
 - `train.py`: Archivo para el entrenamiento con una función de recompensa modificada.
 - `snakeenv.py`: Implementación del entorno de Snake con la recompensa modificada.
 
-En cada una de las carpetas de los experimentos de este apartado se encuentran los modelos entrenados, los checkpoint para el entrenamiento con mejores 
+En cada una de las carpetas de los experimentos de este apartado se encuentran los modelos entrenados, los checkpoints para el entrenamiento con mejores 
 hiperparametros, así como los logs recpectivos con los que se obtuvieron los análisis de tensorboard.
